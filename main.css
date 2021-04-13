@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Felement_pic%2F00%2F16%2F07%2F29579aacddc30bc.jpg&imgrefurl=https%3A%2F%2Fpt.pngtree.com%2Ffree-png-vectors%2Fviagem&tbnid=FrNwKFeBYMpQ0M&vet=12ahUKEwiP39-Yw8TvAhUAAbkGHS3aCE0QMygCegUIARC1AQ..i&docid=uooAha7fafl8KM&w=360&h=360&q=desenhos%20viagem%20fundo%20transparente&ved=2ahUKEwiP39-Yw8TvAhUAAbkGHS3aCE0QMygCegUIARC1AQ');
+  background-color: #000000;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
